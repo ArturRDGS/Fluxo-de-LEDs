@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/EVT/ADS/EmbarcaTech/JDV/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cmake_install.cmake")
+  include("C:/EVT/ADS/EmbarcaTech/Fluxo-de-LEDs/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cmake_install.cmake")
 
 endif()
 
